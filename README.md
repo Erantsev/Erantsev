@@ -13,6 +13,7 @@ currently   solving CTFs, building my own toolkit
 #### Toolbox
 
 ```
+languages   Go · Python
 networks    TCP/IP · DNS · HTTP · nmap · Wireshark · tcpdump · netcat
 ctf         web · forensics · crypto · OSINT · linux privesc
 tools       gdb · binwalk · john · hashcat · ffuf
